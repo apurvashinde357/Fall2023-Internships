@@ -70,6 +70,7 @@ To contribute:
 |[Chameleon Consulting](https://chameleoncg.com/careers?gnk=job&gni=8a7883ac861fc5f801862d2de138524d&gns=LinkedIn%2BLimited)| Herndon, VA Hybrid | Open | Networking Engineer
 |[SpaceX](https://boards.greenhouse.io/spacex/jobs/6675035002?gh_jid=6675035002)| Washington. DC, CA, FL, TX, WA| Open | Software Engineering Intern
 |[Snowflake](https://careers.snowflake.com/us/en/job/SNCOUS6699893002EXTERNALENUS/Software-Engineer-Intern-Infrastructure-Automation-Fall-2023?utm_source=linkedin&utm_medium=phenom-feeds&gh_src=ed5543a62)| San Mateo, CA, Bellevue, WA| Open | Software Engineering Intern
+|[Verkada](https://jobs.lever.co/verkada/c6940c28-fbe1-4012-9383-67407321de6a?lever-source=LinkedIn)| San Mateo CA| Open | Mobile Engineering Intern, Android
 
 ## Other Semesters
 
